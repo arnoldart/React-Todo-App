@@ -90,22 +90,10 @@ h1 {
   align-items: center;
   margin: 4px auto;
   color: #fff;
-  background-color: #150485;
+  background: rgba(29, 167, 222, 1);
   padding: 16px;
   border-radius: 5px;
   width: 90%;
-}
-
-.todo-row:nth-child(4n + 1) {
-  background: #590995;
-}
-
-.todo-row:nth-child(4n + 2) {
-  background: #c62a88;
-}
-
-.todo-row:nth-child(4n + 3) {
-  background: #03c4a1;
 }
 
 
